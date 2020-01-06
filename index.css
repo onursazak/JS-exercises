@@ -1,0 +1,10 @@
+div.box {
+    float:left;
+    background-color: black;
+}
+.div-in-div {
+    width: 200px;
+    height: 200px;
+    background: aquamarine;
+    float: right;
+}
