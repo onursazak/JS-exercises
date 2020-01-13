@@ -410,6 +410,7 @@ johnAthlete5.wonMedal();
 
  */
 // ES6
+/*
 class Person6 {
     constructor(name, yearOfBirth, job) {
         this.name = name;
@@ -440,3 +441,6 @@ class Athlete6 extends Person6 {
 const johnAthlete6 = new Athlete6('John', 1990, 'swimmer', 3, 10);
 johnAthlete6.wonMedal();
 johnAthlete6.calculateAge();
+*/
+
+
